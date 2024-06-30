@@ -3,4 +3,6 @@
 2. what is setup.py, Y?
 3. why should we make our code to be able to get as a pkg? significance of a pkg? 
 4. Inorder to be pkg what to do? why empty _ _init_ _.py?
+5. type annotations? 
+    - (best practice in code dev) documentation, clarity(without reading func impl), maintainance, tooling 
 
